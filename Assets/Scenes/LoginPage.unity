@@ -748,7 +748,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -189.4, y: 77.80552}
+  m_AnchoredPosition: {x: -100.4, y: 80.1}
   m_SizeDelta: {x: 33.7083, y: 27.9431}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &144807880
@@ -1171,7 +1171,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b077a705354d6884f97836989577b55e, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.691
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1620,7 +1620,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -143, y: 79.1}
+  m_AnchoredPosition: {x: -146.9, y: 78.7}
   m_SizeDelta: {x: 30.4712, y: 21.2199}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &478801342
@@ -1677,8 +1677,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1756,7 +1756,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -108.3, y: 77.80552}
+  m_AnchoredPosition: {x: -197.7, y: 77}
   m_SizeDelta: {x: 33.7083, y: 27.9431}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &581719836
