@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım Unity U-107
+Takım: Unity U-107
 
 # Ürün İle İlgili Bilgiler
 
