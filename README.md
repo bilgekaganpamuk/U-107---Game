@@ -7,7 +7,7 @@ Takım Unity U-107
 ## Takım Elemanları
 - Bilge Kağan Pamuk: Scrum Master /  Developer
 - Safiye Ebrar Etiz: Developer
-- Halil Kafadar: Developer
+- Halil Şevval Kafadar: Developer
 - Sevim Nur Demirçin: Developer
 - Hilal Karahasan: Developer / Designer
 
