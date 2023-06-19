@@ -9,7 +9,7 @@ Takım Unity U-107
 - Safiye Ebrar Etiz: Developer
 - Halil Kafadar: Developer
 - Sevim Nur Demirçin: Developer
-- Hilal Karahasan Tasarımcı
+- Hilal Karahasan: Developer / Designer
 
 ## Ürün İsmi
 
@@ -54,4 +54,4 @@ Planet Puff, siz ve arkadaşınızın birlikte dolaştığı, beş ayrı gezegen
 
 Trello panomuzda, story'ler ve task'lar üst başlıklarına göre ayrıldı. Bu sayede, her bir görev ve hikayenin hangi aşamada olduğunu hızlıca görebiliyoruz. Task'lar, kendilerine atanmış story'lerin altında yer alırken, her story'nin durumu ve ilerlemesi üst başlıkta görülebilir. Bu düzenlemeler, sprint planlamamızı ve ilerlememizi etkin bir şekilde yönetmeyi kolaylaştırıyor.
 
-- **Daily Scrum**: Zamanlama nedenleriyle, Daily Scrum toplantılarımızı Discord üzerinden gerçekleştirmeye karar verdik. Daily Scrum toplantılarına bir örnek, tarafımızdan README dosyasında JPEG veya Word formatında paylaşılmaktadır. Bu, ekibin etkin bir şekilde iletişim kurmasını ve herkesin projenin güncel durumu hakkında bilgi sahibi olmasını sağlar. [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Zamanlama nedenleriyle, Daily Scrum toplantılarımızı Discord üzerinden gerçekleştirmeye karar verdik. Daily Scrum toplantılarına bir örnek, tarafımızdan README dosyasında JPEG veya Word formatında paylaşılmaktadır. Bu, ekibin etkin bir şekilde iletişim kurmasını ve herkesin projenin güncel durumu hakkında bilgi sahibi olmasını sağlar. [Sprint 1 Daily Scrum Chats](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/Discord%20Messages.png)
