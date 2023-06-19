@@ -61,8 +61,8 @@ Trello panomuzda, story'ler ve task'lar üst başlıklarına göre ayrıldı. Bu
 ![Backlog 3](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/trello-3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/Oyun%C4%B0%C3%A7i-1.png)
+  ![Screenshot 2](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/Oyun%C4%B0%C3%A7i-2.png)
   
 - **Sprint Review**: 
 Alınan kararlar:Çalışma yoğunluğunu arttırma ve projeyi en kısa sürede çalışır duruma getirme kararı alındı. Bu, projenin ilerleme hızını artıracak ve hedeflere daha hızlı ulaşmamızı sağlayacaktır. Sprint süresince elde ettiğimiz geri bildirimler ve tecrübeler ışığında, bu değişiklik ekibin genel verimliliğini ve proje üzerindeki ilerlemeyi olumlu yönde etkileyecektir. Sprint Review katılımcıları: Bilge Kağan Pamuk, Safiye Ebrar Etiz, Halil Kafadar, Sevim Nur Demirçin, Hilal Karahasan
@@ -73,3 +73,5 @@ Alınan kararlar:Çalışma yoğunluğunu arttırma ve projeyi en kısa sürede 
   - İş yoğunluğu arttırılmalı
   - Tasarıma odak arttılmasına karar verilmiştir.
 
+-**Diğer Notlar**:
+- İlerleyen Zamanlarda oluşabilecek beklenmedik durumlara göre gereksinimler değişebilir.
