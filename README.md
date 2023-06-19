@@ -55,3 +55,21 @@ Planet Puff, siz ve arkadaşınızın birlikte dolaştığı, beş ayrı gezegen
 Trello panomuzda, story'ler ve task'lar üst başlıklarına göre ayrıldı. Bu sayede, her bir görev ve hikayenin hangi aşamada olduğunu hızlıca görebiliyoruz. Task'lar, kendilerine atanmış story'lerin altında yer alırken, her story'nin durumu ve ilerlemesi üst başlıkta görülebilir. Bu düzenlemeler, sprint planlamamızı ve ilerlememizi etkin bir şekilde yönetmeyi kolaylaştırıyor.
 
 - **Daily Scrum**: Zamanlama nedenleriyle, Daily Scrum toplantılarımızı Discord üzerinden gerçekleştirmeye karar verdik. Daily Scrum toplantılarına bir örnek, tarafımızdan README dosyasında JPEG veya Word formatında paylaşılmaktadır. Bu, ekibin etkin bir şekilde iletişim kurmasını ve herkesin projenin güncel durumu hakkında bilgi sahibi olmasını sağlar. [Sprint 1 Daily Scrum Chats](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/Discord%20Messages.png)
+- - **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/trello-1.png) 
+![Backlog 2](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/trello-2.png) 
+![Backlog 3](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/trello-3.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
+  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  
+- **Sprint Review**: 
+Alınan kararlar:Çalışma yoğunluğunu arttırma ve projeyi en kısa sürede çalışır duruma getirme kararı alındı. Bu, projenin ilerleme hızını artıracak ve hedeflere daha hızlı ulaşmamızı sağlayacaktır. Sprint süresince elde ettiğimiz geri bildirimler ve tecrübeler ışığında, bu değişiklik ekibin genel verimliliğini ve proje üzerindeki ilerlemeyi olumlu yönde etkileyecektir. Sprint Review katılımcıları: Bilge Kağan Pamuk, Safiye Ebrar Etiz, Halil Kafadar, Sevim Nur Demirçin, Hilal Karahasan
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır. Bu kısımdan dolayı Hilal Karahasan, Hem tasarımcı hem de Geliştirici olarak devam edecektir.
+  - Görev dağılımını daha özenli ve ileriye yönelik yapılması gerektiğine karar verilmiştir.
+  - İş yoğunluğu arttırılmalı
+  - Tasarıma odak arttılmasına karar verilmiştir.
+
