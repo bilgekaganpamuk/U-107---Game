@@ -80,7 +80,7 @@ Alınan kararlar:Çalışma yoğunluğunu arttırma ve projeyi en kısa sürede 
 
 - **Sprint içinde tamamlanması tahmin edilen görevler**: 8 Görev
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/DiscordKonusma.png)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/Discord%20Messages.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![trello-Sprint-2](https://github.com/bilgekaganpamuk/U-107---Game/assets/73613218/fd487e2b-e274-4d00-815b-9b7f6e40fd8a)
