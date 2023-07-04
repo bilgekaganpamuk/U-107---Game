@@ -75,3 +75,30 @@ Alınan kararlar:Çalışma yoğunluğunu arttırma ve projeyi en kısa sürede 
 
 -**Diğer Notlar**:
 - İlerleyen Zamanlarda oluşabilecek beklenmedik durumlara göre gereksinimler değişebilir.
+- 
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen görevler**: 8 Görev
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/bilgekaganpamuk/U-107---Game/blob/main/Images/DiscordKonusma.png)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![trello-Sprint-2](https://github.com/bilgekaganpamuk/U-107---Game/assets/73613218/fd487e2b-e274-4d00-815b-9b7f6e40fd8a)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Character Controller](https://github.com/bilgekaganpamuk/U-107---Game/assets/73613218/c010f612-6a9f-4b18-b04e-f9c327264c32)
+  ![MainScene](https://github.com/bilgekaganpamuk/U-107---Game/assets/73613218/4da15ac6-88d5-4d7a-8983-5efad672d2ba)
+
+- **Sprint Review**: 
+Alınan kararlar: Resmi tatilden ötürü iş yükünün en aza düşürülmesine karar verilmiştir, bu doğrultuda Arayüzün güncellenmesi, karakter oluşturma kodunun yazılmasına ve karakter hareketinin yapılması amaçlanmıştır.
+Sprint Review katılımcıları:  Bilge Kağan Pamuk, Safiye Ebrar Etiz, Halil Kafadar, Sevim Nur Demirçin, Hilal Şevval Karahasan
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Takim olarak sonraki aşamalarda çalışmamızı arttırmamız gerektiği dikkat çekmiştir.
+  - Daha koordineli çalışılmasına karar verilmiştir.
+
+
+---
+
