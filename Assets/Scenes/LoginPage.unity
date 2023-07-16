@@ -2036,7 +2036,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1979132187}
         m_TargetAssemblyTypeName: Photon.Pun.Demo.PunBasics.Launcher, Assembly-CSharp
-        m_MethodName: Connect
+        m_MethodName: LoadScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7814,7 +7814,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ayalarlar
+  m_Text: Settings
 --- !u!222 &983651263
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8594,7 +8594,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0130sminiz:"
+  m_Text: 'Name:'
 --- !u!222 &1635889798
 CanvasRenderer:
   m_ObjectHideFlags: 0
