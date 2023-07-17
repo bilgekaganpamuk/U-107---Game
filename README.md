@@ -102,4 +102,29 @@ Sprint Review katılımcıları:  Bilge Kağan Pamuk, Safiye Ebrar Etiz, Halil K
 
 
 ---
+# Sprint 3
 
+-  **Sprint içinde tamamlanması tahmin edilen görevler**: 12 Görev
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats]
+- **Sprint board update**: Sprint board güncellenmemiştir. Güncellenmeme nedeni birebir iletişim ile takım olarak çalışılmıştır.
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![image](https://github.com/bilgekaganpamuk/U-107---Game/assets/73613218/04b462db-4572-40f2-abe5-9c0fb6ad896a)
+![image](https://github.com/bilgekaganpamuk/U-107---Game/assets/73613218/8778bf39-8f22-46eb-9791-ec1d32649b1a)
+
+
+
+- **Sprint Review**: 
+Alınan kararlar: Oyunun calışan bir prototipinin oluşturup mezun olmak amaçlanmıştır.
+Sprint Review katılımcıları:  Bilge Kağan Pamuk, Safiye Ebrar Etiz, Halil Kafadar, Sevim Nur Demirçin, Hilal Şevval Karahasan
+
+- **Sprint Retrospective:**
+
+  - Takım üyeleri ile hala iletişimde kalmak vurgulanmıştır.
+
+
+---
